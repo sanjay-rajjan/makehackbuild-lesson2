@@ -1,0 +1,42 @@
+.kirby{
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.kbody{
+  position: absolute;
+  padding: 100px;  
+  background-color: pink; 
+  border-radius: 100%;
+}
+
+.face{
+  position: absolute;  
+  left: 85px;
+  top: 60px;
+}
+
+.eye1{
+  display: inline;
+  padding: 15px 10px;
+  background-color: black;
+  border-radius: 100%;
+  margin: 1px;
+}
+
+.spacer{
+  display: inline;
+  padding: 15px;
+    
+}
+
+.eye2{
+  display: inline;
+  padding: 15px 10px;
+  width: 20%;
+  background-color: black;
+  border-radius: 100%;
+  margin: 10px;
+}
+
